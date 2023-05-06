@@ -52,7 +52,7 @@ def fill_array(L,p,arr):
     return arr
 
 def load_fromTXT2():
-    with open("/Users/sebastiansuwada/Desktop/Python_Practice/Python_Physics/init_per.txt", "r") as file:
+    with open("init_per.txt", "r") as file:
         data = file.read().strip().split(",")
     L = int(data[0])            #Lattice
     T = int(data[1])            #Number of trials
