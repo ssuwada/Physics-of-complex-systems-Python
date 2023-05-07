@@ -5,4 +5,6 @@ These are my solutions, but they are not my assignments! I did my best to create
 
 Written in Python.
 
+Everything based on own experience and knowledge from university. 
 
+Some functionalities are described in python files, so feel free to open them :)
